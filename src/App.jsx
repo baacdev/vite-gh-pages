@@ -1,7 +1,5 @@
 import { useState } from 'react'
 import './App.css'
-
-import { useState } from 'react'
 import { StarIcon } from '@heroicons/react/20/solid'
 import { Radio, RadioGroup } from '@headlessui/react'
 
